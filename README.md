@@ -7,7 +7,8 @@ We use the Cornell Corpus (dataset of movie-lines) for training,
 - Expected Output: the conversational response from corpus
 - Output: whatever the Deep Model says
 
-Stage 1: Data pre-processing     <--- here
-Stage 2: Building Seq2Seq Model
-Stage 3: Training
-Stage 4: Testing 
+1. Data pre-processing     <--- here
+2. Building Seq2Seq Model
+3. Training
+4. Testing 
+
