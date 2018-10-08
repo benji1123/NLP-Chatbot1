@@ -1,6 +1,6 @@
 ## First Chatbot - Ben Li, started at 3:00 AM, Sept 2018
 
-I am Making (from-scratch) a convering chatbot to fulfill my curiosity in NLP & ML.
+Making (from-scratch) a convering chatbot to fulfill my curiosity in NLP & ML.
 
 ### > We use the Cornell Corpus (movie-lines),
 - Input: a question from the corpus
